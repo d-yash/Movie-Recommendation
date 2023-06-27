@@ -5,7 +5,7 @@ import requests
 st.set_page_config(layout="wide")
 
 #8265bd1679663a7ea12ac168da84d2e8
-new_title = '<p style="font-family:serif; color:White; font-size: 60px;">Movie Recommendation System</p>'
+new_title = '<p style="font-family:serif; color:White; font-size: 60px;">Cine sathi - Movie Recommendation System</p>'
 quarry = '<p style="font-family:serif; color:Black; font-size:35px; ">Which movie you liked ??</p>'
 st.markdown(new_title, unsafe_allow_html=True)
 st.markdown(quarry, unsafe_allow_html=True)
